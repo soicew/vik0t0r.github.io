@@ -34,6 +34,8 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 
 # Theme
-
-gem "jekyll-theme-hydeout", "~> 4.1"
+gem "jekyll-remote-theme"
+gem "jekyll-gist"
+gem "jekyll-paginate"
+#gem "jekyll-theme-hydeout", "~> 4.1"
 
